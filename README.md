@@ -2,7 +2,8 @@
 
 An autonomous mathematical reasoning engine that solves competition-level math problems using a specialized multi-agent pipeline and real-time code execution.
 
-![AI Multi-Agent Solver UI]()
+<img width="960" height="540" alt="MULTI_AGENT_MATH_SOLVER" src="https://github.com/user-attachments/assets/84afd8b1-7f78-4b48-aa0f-a39b0294eddd" />
+
 
 ## 🌟 Overview
 
@@ -61,3 +62,4 @@ The solver reads from `reference.csv`, which contains various competition-style 
 
 ---
 Developed by Sanskar Verma.
+
